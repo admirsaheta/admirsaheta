@@ -1,4 +1,5 @@
 ### 👋 Hi! I'm Admir Saheta, an iOS Developer.
+{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}"
 
 ![APIProvider](https://github.com/admirsaheta/admirsaheta/blob/main/APIProv.png?raw=true)
 
