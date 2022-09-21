@@ -1,7 +1,8 @@
 ### 👋 Hi! I'm Admir Saheta, an iOS Developer.
 {'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
 
-![APIProvider](https://github.com/admirsaheta/admirsaheta/blob/main/APIProv.png?raw=true)
+![image](https://user-images.githubusercontent.com/81534875/191602804-0687808c-e1f4-46a2-990d-09535d80551d.png)
+
 
 
 | Working on  | Learning | Planning | Reading |
