@@ -7,8 +7,8 @@
 
 | Working on  | Learning | Planning | Reading |
 | ------------- | ------------- | ------------ | ------------- |
-| HulkApps Projects  | Katana  | New Architecture Integrations     | The Book of C      |
-| AppOnBoardingKit  | CoreML  | Good User Experiences on iOS     | Get yourself un*cked      |
+| HulkApps Projects  | Emacs  | Event Driven Microservices  | Code: The Hidden Language of Computer Hardware and Software by Charles Petzold |
+| Opensource Projects  | tRPC  | Opensource Contributions | Superintelligence: Paths, Dangers, Strategies by Nick Bostrom |
 
 
 | Socials | Graphs | Stats |
