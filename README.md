@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Admir Saheta, an iOS Developer.
+### 👋 Hi! I'm Admir Saheta, a unique dev.
 {'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
 
 ![image](https://github.com/admirsaheta/admirsaheta/assets/81534875/b3fe3f7d-5eb9-4564-af08-c94a1b47221b)
