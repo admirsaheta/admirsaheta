@@ -14,6 +14,6 @@
 
 | Socials | Graphs | Stats |
 | ------- | ------- | ----- |
-| Find me on [LinkedIn](https://www.linkedin.com/in/admir-saheta/) | ![Top Langs](https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api/top-langs/?username=admirsaheta&layout=compact)   |  ![Admir's GitHub stats](https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api?username=admirsaheta&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true) |
+| Find me on [LinkedIn](https://www.linkedin.com/in/admir-saheta/) | ![Top Langs](https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api/top-langs/?username=admirsaheta&layout=compact&limit=6)   |  ![Admir's GitHub stats](https://github-readme-stats-gye8jh2s0-admirsaheta.vercel.app/api?username=admirsaheta&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true) |
 |  |
 
