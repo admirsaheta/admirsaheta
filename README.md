@@ -3,7 +3,7 @@
 
  ![](https://komarev.com/ghpvc/?username=admirsaheta)
 
-![image](https://github.com/admirsaheta/admirsaheta/assets/81534875/b3fe3f7d-5eb9-4564-af08-c94a1b47221b)
+![image](https://i.imgur.com/P6LEHG7.png)
 
 
 
