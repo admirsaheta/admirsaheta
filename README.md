@@ -2,8 +2,11 @@
 {'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
 
  ![](https://komarev.com/ghpvc/?username=admirsaheta)
+ [![Time Coded](https://wakatime.com/badge/user/4f9f3bfc-70b4-4668-a443-6bf0130329e4.svg)](https://wakatime.com/@4f9f3bfc-70b4-4668-a443-6bf0130329e4)
 
-![image](https://github.com/user-attachments/assets/68a18b9f-f1ef-4d84-8539-a5dfae1a60e2)
+<img width="810" height="340" alt="image" src="https://github.com/user-attachments/assets/633292fd-02d4-493b-9ef3-80ad0dae6799" />
+
+
 
 
 
@@ -12,8 +15,8 @@
 
 | Working on  | Learning | Planning | Reading |
 | ------------- | ------------- | ------------ | ------------- |
-| HulkApps Projects  | Zig  | React Native Libraries  | Refactoring by measure |
-| Opensource Projects  | Go  | Opensource Contributions | Superintelligence: Paths, Dangers, Strategies by Nick Bostrom |
+| AI RAG/Stuff  | Advanced Go  | Side Project | Hands-On Large Language Models |
+| Opensource Projects  | LLMs & ML  | Opensource Contributions | Designing Data-Intensive Applications |
 
 
 | Socials | Graphs | Stats |
