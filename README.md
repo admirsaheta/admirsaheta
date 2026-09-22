@@ -4,7 +4,7 @@
  ![](https://komarev.com/ghpvc/?username=admirsaheta)
  [![Time Coded](https://wakatime.com/badge/user/4f9f3bfc-70b4-4668-a443-6bf0130329e4.svg)](https://wakatime.com/@4f9f3bfc-70b4-4668-a443-6bf0130329e4)
 
-<img width="810" height="340" alt="image" src="https://github.com/user-attachments/assets/633292fd-02d4-493b-9ef3-80ad0dae6799" />
+<img width="810" height="340" alt="image" src="https://raw.githubusercontent.com/admirsaheta/admirsaheta/refs/heads/main/admir-banner-1600x600.png" />
 
 
 
