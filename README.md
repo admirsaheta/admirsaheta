@@ -1,5 +1,7 @@
-### 👋 Hi! I'm Admir Saheta, a unique dev.
-{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
+###  👋🏼 Hi — Admir here. I believe I’m the one you were looking for. Try to contain your excitement.
+
+Won Google Foobar before AI turned software engineering into a personality trait. Still here. Still shipping. How unfortunate.
+
 
  ![](https://komarev.com/ghpvc/?username=admirsaheta)
  [![Time Coded](https://wakatime.com/badge/user/4f9f3bfc-70b4-4668-a443-6bf0130329e4.svg)](https://wakatime.com/@4f9f3bfc-70b4-4668-a443-6bf0130329e4)
